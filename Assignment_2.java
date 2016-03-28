@@ -8,7 +8,6 @@ import javax.imageio.*;
 
 /**
  * Uppgift2
- * MMMMMMMMMMMMMMM
  * @author emmashakespeare
  *
  */
